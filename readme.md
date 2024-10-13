@@ -4,4 +4,5 @@
     --> Calculator
     --> BMI Calculator
     --> Prime Number Checker
+    --> FizzBuzz
     --> Temperature Converter
